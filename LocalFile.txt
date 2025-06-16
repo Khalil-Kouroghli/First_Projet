@@ -1,0 +1,2 @@
+Fichier créé localement.
+Ce fichier a été créé en local et sera synchronisé avec le dépôt distant via Git. 
